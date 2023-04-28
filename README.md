@@ -4,6 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In this project there are 3 components
+1: Form component
+2: Messaging components
+3: A dummy Message List component
+
+There is a docker file being created as well.
+
 In the project directory, you can run:
 
 ### `npm start`
